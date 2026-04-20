@@ -1,4 +1,3 @@
-# LiyemaMangaliso.github.io.
 # Liyema Mangaliso – Curriculum Vitae
 
 ## Career Objective
@@ -80,3 +79,15 @@ Cape Town, South Africa :contentReference[oaicite:3]{index=3}
 **Buhle Seya**  
 - Email: buhleseya@yahoo.com  
 - Phone: 0673353580 :contentReference[oaicite:6]{index=6}
+
+---
+## Reflections
+
+### Reflection on Use of .md
+Using Markdown (.md) allowed me to structure my work clearly using headings, lists, and simple formatting. It made my content easy to read and maintain, especially when working on GitHub. I also found it efficient because it is lightweight and preserves formatting across platforms.
+
+### Reflection on Mock Interview
+The mock interview helped me improve my confidence and communication skills. I was able to identify areas where I need to improve, such as explaining technical concepts more clearly and giving concise answers. It also prepared me for real interview scenarios.
+
+### Reflection on Deployment on GitHub Pages
+Deploying my project on GitHub Pages helped me understand how to publish a live website. I learned how to manage files, use version control, and make updates to a live project. It was a valuable experience in understanding real-world deployment.
