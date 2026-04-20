@@ -1,7 +1,7 @@
 # Liyema Mangaliso – Curriculum Vitae
 
 ## Career Objective
-Motivated ICT Application Development student currently in the final year of study, seeking an IT internship opportunity to apply and expand knowledge in software development and technology solutions. Goal is to gain practical industry experience while contributing to innovative projects and developing into a skilled software developer. :contentReference[oaicite:0]{index=0}
+Motivated ICT Application Development student currently in the final year of study, seeking an IT internship opportunity to apply and expand knowledge in software development and technology solutions. Goal is to gain practical industry experience while contributing to innovative projects and developing into a skilled software developer.
 
 ---
 
@@ -10,7 +10,7 @@ Motivated ICT Application Development student currently in the final year of stu
 - Phone: 076 175 1217  
 - Alt Email: tourmaline@aloealoemusic.co.za  
 - Alt Phone: 083 363 1958  
-- GitHub: LiyemaMangaliso :contentReference[oaicite:1]{index=1}
+- GitHub: LiyemaMangaliso 
 
 ---
 
@@ -22,7 +22,7 @@ Motivated ICT Application Development student currently in the final year of stu
 
 ### Databases
 - MySQL  
-- Derby DB :contentReference[oaicite:2]{index=2}
+- Derby DB 
 
 ---
 
@@ -36,7 +36,7 @@ ICT: Application Development (Diploma/Degree in Progress)
 **Table View High School**  
 National Senior Certificate (NSC)  
 2018 – 2022  
-Cape Town, South Africa :contentReference[oaicite:3]{index=3}
+Cape Town, South Africa 
 
 ---
 
@@ -54,7 +54,7 @@ Cape Town, South Africa :contentReference[oaicite:3]{index=3}
 ### Database System Project
 - Designed relational database schemas  
 - Created ER diagrams and SQL queries  
-- Applied normalization and data integrity principles :contentReference[oaicite:4]{index=4}
+- Applied normalization and data integrity principles
 
 ---
 
@@ -71,14 +71,14 @@ Cape Town, South Africa :contentReference[oaicite:3]{index=3}
 
 ### Event Operations Assistant – BASA Awards Crew – 2023
 - Assisted in event setup and logistics  
-- Demonstrated attention to detail :contentReference[oaicite:5]{index=5}
+- Demonstrated attention to detail 
 
 ---
 
 ## Reference
 **Buhle Seya**  
 - Email: buhleseya@yahoo.com  
-- Phone: 0673353580 :contentReference[oaicite:6]{index=6}
+- Phone: 0673353580 
 
 ---
 ## Reflections
