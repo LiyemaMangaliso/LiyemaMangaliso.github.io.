@@ -83,11 +83,44 @@ Cape Town, South Africa
 ---
 ## Reflections
 
-### Reflection on Use of .md
-Using Markdown (.md) allowed me to structure my work clearly using headings, lists, and simple formatting. It made my content easy to read and maintain, especially when working on GitHub. I also found it efficient because it is lightweight and preserves formatting across platforms.
+# Reflection on Use of .md
 
-### Reflection on Mock Interview
-The mock interview helped me improve my confidence and communication skills. I was able to identify areas where I need to improve, such as explaining technical concepts more clearly and giving concise answers. It also prepared me for real interview scenarios.
+## Situation
+During my project work, I needed a simple and organized way to document information clearly on GitHub.
 
-### Reflection on Deployment on GitHub Pages
-Deploying my project on GitHub Pages helped me understand how to publish a live website. I learned how to manage files, use version control, and make updates to a live project. It was a valuable experience in understanding real-world deployment.
+## Task
+My task was to create readable and maintainable documentation that could be shared across platforms.
+
+## Action
+I used Markdown (.md) to structure my work using headings, lists, and formatting tools.
+
+## Result
+My documentation became easier to read and maintain, and I improved my understanding of GitHub documentation practices.
+
+# Reflection on Mock Interview
+
+## Situation
+I participated in a mock interview to prepare for real job interviews.
+
+## Task
+My task was to practice answering interview questions professionally and confidently.
+
+## Action
+I answered technical and personal questions while focusing on communication and professionalism.
+
+## Result
+The mock interview improved my confidence and helped me identify areas where I need improvement, such as explaining technical concepts more clearly.
+
+# Reflection on Deployment on GitHub Pages
+
+## Situation
+I needed to deploy my project as a live website.
+
+## Task
+My task was to learn how to publish and manage a website using GitHub Pages.
+
+## Action
+I uploaded project files, used version control, and deployed the website through GitHub Pages.
+
+## Result
+I gained practical experience in website deployment, version control, and managing live project updates.
